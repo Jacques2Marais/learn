@@ -127,3 +127,5 @@ Let's apply what we've learned with some practical examples:
 **Conclusion**
 
 In this chapter, we've explored the basic syntax of SQL, familiarized ourselves with common data types, and practiced writing simple queries to retrieve and filter data. With these foundational skills, you're now prepared to delve deeper into more complex SQL operations in the upcoming chapters. 
+
+[Next chapter >>](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter3.md)
