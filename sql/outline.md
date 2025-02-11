@@ -2,7 +2,7 @@ Below is a detailed, step‐by‐step course outline designed for absolute begin
 
 ---
 
-### Module 1: Introduction to Databases and SQL
+### [Module 1: Introduction to Databases and SQL](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter1.md)
 
 **Description:**  
 Introduce the concept of databases, explain what SQL (Structured Query Language) is, and discuss why relational databases are so essential. This module sets the foundation by discussing key terminology (tables, rows, columns, keys) and offering historical context along with real-world applications.
@@ -23,9 +23,11 @@ Introduce the concept of databases, explain what SQL (Structured Query Language)
 - Use analogies (like comparing a database to a digital filing cabinet) to make abstract concepts tangible.
 - Incorporate short interactive quizzes to assess understanding of basic terms.
 
+[Read this chapter.](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter1.md)
+
 ---
 
-### Module 2: SQL Syntax, Data Types, and Basic Queries
+### [Module 2: SQL Syntax, Data Types, and Basic Queries](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter2.md)
 
 **Description:**  
 Dive into the building blocks of SQL syntax. Learn about the structure of SQL statements, common data types, and how to write simple queries. This module demystifies the language’s syntax to ensure that students feel comfortable with the basic format and conventions.
@@ -46,9 +48,11 @@ Dive into the building blocks of SQL syntax. Learn about the structure of SQL st
 - Incorporate visual diagrams that map out the SQL statement structure.
 - Include mini challenges where learners predict the output of a query before running it.
 
+[Read this chapter.](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter2.md)
+
 ---
 
-### Module 3: Advanced Data Retrieval – Filtering, Sorting, and Aliasing
+### [Module 3: Advanced Data Retrieval – Filtering, Sorting, and Aliasing](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter3.md)
 
 **Description:**  
 Build on basic queries by introducing more complex data retrieval techniques. This module covers filtering records, sorting results, and using aliases to simplify query outputs. It emphasizes writing clean, efficient, and understandable queries.
@@ -70,9 +74,11 @@ Build on basic queries by introducing more complex data retrieval techniques. Th
 - Use real-world datasets (e.g., a fictional company’s employee records) to keep examples relevant.
 - Encourage experimentation by asking students to alter provided queries and observe changes.
 
+[Read this chapter.](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter3.md)
+
 ---
 
-### Module 4: Data Aggregation and Grouping
+### [Module 4: Data Aggregation and Grouping](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter4.md)
 
 **Description:**  
 Introduce aggregate functions that summarize large datasets and teach how to group data meaningfully. This module explains how to extract insights by summarizing data using functions like COUNT, SUM, AVG, MIN, and MAX, as well as using GROUP BY and HAVING clauses.
@@ -93,9 +99,11 @@ Introduce aggregate functions that summarize large datasets and teach how to gro
 - Compare similar queries with and without GROUP BY to highlight differences.
 - Incorporate lab exercises where learners generate reports from sample datasets.
 
+[Read this chapter.](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter4.md)
+
 ---
 
-### Module 5: Joins and Relationships Between Tables
+### [Module 5: Joins and Relationships Between Tables](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter5.md)
 
 **Description:**  
 Focus on combining data from multiple tables using various join operations. This module explains relational concepts and teaches different types of joins—inner, left, right, and full outer joins—to link tables based on common attributes.
@@ -116,9 +124,11 @@ Focus on combining data from multiple tables using various join operations. This
 - Use interactive SQL environments where learners can tweak join conditions.
 - Emphasize best practices for joining tables efficiently.
 
+[Read this chapter.](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter5.md)
+
 ---
 
-### Module 6: Subqueries, Set Operations, and Nested Queries
+### Module 6: Subqueries, Set Operations, and Nested Queries (coming soon)
 
 **Description:**  
 Explore advanced querying techniques that involve subqueries and set operations. This module covers how to embed queries within queries to solve complex problems and how to combine results from multiple queries using set operators.
@@ -141,7 +151,7 @@ Explore advanced querying techniques that involve subqueries and set operations.
 
 ---
 
-### Module 7: Data Modification and Transaction Control
+### Module 7: Data Modification and Transaction Control (coming soon)
 
 **Description:**  
 Learn how to modify data within a database safely and reliably. This module covers data manipulation (INSERT, UPDATE, DELETE) and introduces transaction control to maintain data integrity during operations.
@@ -164,7 +174,7 @@ Learn how to modify data within a database safely and reliably. This module cove
 
 ---
 
-### Module 8: Database Schema Design and Data Definition Language (DDL)
+### Module 8: Database Schema Design and Data Definition Language (DDL) (coming soon)
 
 **Description:**  
 Focus on creating and modifying the structure of a database. This module teaches students how to design schemas, define tables, and set constraints to ensure data quality and integrity.
@@ -187,7 +197,7 @@ Focus on creating and modifying the structure of a database. This module teaches
 
 ---
 
-### Module 9: Advanced SQL Features and Performance Optimization
+### Module 9: Advanced SQL Features and Performance Optimization (coming soon)
 
 **Description:**  
 Delve into more advanced SQL topics such as window functions, common table expressions (CTEs), and performance tuning techniques. This module is designed to take students’ skills to the next level with modern SQL practices.
@@ -210,7 +220,7 @@ Delve into more advanced SQL topics such as window functions, common table expre
 
 ---
 
-### Module 10: Capstone Project and Real-World Applications
+### Module 10: Capstone Project and Real-World Applications (coming soon)
 
 **Description:**  
 Apply all the learned concepts in a comprehensive project that simulates a real-world scenario. This capstone project integrates database design, query writing, and performance optimization into a cohesive assignment.
@@ -235,7 +245,7 @@ Apply all the learned concepts in a comprehensive project that simulates a real-
 
 ### Additional Module Components (for Each Module)
 
-For every module, consider including:
+For every module, consider:
 - **Interactive Quizzes & Challenges:** Short quizzes after each module to reinforce learning.
 - **Hands-On Labs:** Practical labs or coding exercises to practice new concepts in a controlled environment.
 - **Visual Aids:** Diagrams, flowcharts, or interactive visuals to illustrate complex ideas.
