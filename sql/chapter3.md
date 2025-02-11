@@ -226,4 +226,6 @@ Let's apply these concepts through practical examples:
 
 - **Encourage Experimentation:**
 
-  Don't hesitate to modify and experiment with the provided queries. Change conditions, sorting orders, or apply different 
+  Don't hesitate to modify and experiment with the provided queries. Change conditions, sorting orders, or apply different
+
+  [Next chapter >>](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter4.md)
