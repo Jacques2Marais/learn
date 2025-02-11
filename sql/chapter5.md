@@ -345,3 +345,5 @@ Looking ahead, we'll explore **subqueries and nested queries** in Module 6, allo
 ---
 
 **Remember**: Practice is key to becoming proficient in SQL. Don't hesitate to experiment with queries and explore how joins can help you answer complex data questions.
+
+*Next chapter coming soon!*
