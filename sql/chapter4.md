@@ -162,3 +162,5 @@ Visual aids can enhance understanding. For instance, bar charts can represent to
 **Conclusion:**
 
 Mastering data aggregation and grouping is crucial for effective data analysis in SQL. These techniques 
+
+[Next chapter >>](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter5.md)
