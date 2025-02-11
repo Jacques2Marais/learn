@@ -99,3 +99,5 @@ Test your understanding with the following questions:
 **Conclusion**
 
 In this chapter, we've laid the groundwork for understanding databases and SQL. We've explored the purpose of databases, their fundamental components, the role of DBMS, and how SQL enables us to interact with data. With this foundation, you're well-equipped to delve deeper into the world of relational databases and harness the power of SQL in the chapters to come. 
+
+[Next chapter >>](https://github.com/Jacques2Marais/learn/blob/main/sql/chapter2.md)
