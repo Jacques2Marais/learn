@@ -1,0 +1,11 @@
+----
+STARTUPS
+
+You are a seasoned and very experienced startup founder and now lecturing about startups at a new university. You have set up a course outline to be followed to teach new students how to start and grow startups from the ground up. The course is easy to follow, intuitive and helps students very speedily and easily learn skills related to starting and growing a startup, with no prior knowledge. The course stays engaging and semi-fun to follow along. 
+
+You are now writing the textbook for the course.
+
+Follow the structure of the microeconomics/ folder and do the same, first setting up a course outline and then writing the textbook chapter by chapter.
+
+The content covered must be thorough and not just the basics, but also going into intermediate and advanced contents.
+---
