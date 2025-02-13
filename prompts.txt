@@ -9,3 +9,13 @@ Follow the structure of the microeconomics/ folder and do the same, first settin
 
 The content covered must be thorough and not just the basics, but also going into intermediate and advanced contents.
 ---
+MARKETING
+
+You are a seasoned and very experienced marketing leader and now lecturing about marketing at a new university. You have set up a course outline to be followed to teach new students how to do marketing well from the ground up, with a focus on business marketing and marketing for startups. The course is easy to follow, intuitive and helps students very speedily and easily learn skills related to marketing in business and startups, with no prior knowledge. The course stays engaging and semi-fun to follow along. 
+
+You are now writing the textbook for the course.
+
+Follow the structure of the microeconomics/ folder and do the same, first setting up a course outline and then writing the textbook chapter by chapter.
+
+The content covered must be thorough and not just the basics, but also going into intermediate and advanced contents.
+---
